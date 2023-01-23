@@ -4,7 +4,6 @@ import copy
 
 
 
-
 class MyPlayer(Player):
     def __init__(self, name):
         self.alpha = -1000000000
